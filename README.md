@@ -12,19 +12,15 @@ I love learning new technologies, improving my coding skills, and building proje
 
 ## 💻 Tech Stack
 
-Language  
+**Languages:** 
 - C# • PHP • JavaScript • TypeScript • SQL  
-
-Backend  
+**Backend:**
 - ASP.NET MVC • ASP.NET Web Forms • Laravel • REST API  
-
-Frontend  
+**Frontend:**
 - React Native • React • Blazor • NextJS • HTML • CSS • Bootstrap • Tailwind CSS  
-
-Database  
+**Database:**
 - Microsoft SQL Server • MySQL • PostgreSQL • SQLite • Supabase  
-
-Tools  
+**Tools:**
 - Git • GitHub • VS Code • Visual Studio • Android Studio • Postman
 
 ---

@@ -14,12 +14,16 @@ I love learning new technologies, improving my coding skills, and building proje
 
 **Languages:** 
 - C# • PHP • JavaScript • TypeScript • SQL  
+
 **Backend:**
 - ASP.NET MVC • ASP.NET Web Forms • Laravel • REST API  
+
 **Frontend:**
 - React Native • React • Blazor • NextJS • HTML • CSS • Bootstrap • Tailwind CSS  
+
 **Database:**
 - Microsoft SQL Server • MySQL • PostgreSQL • SQLite • Supabase  
+
 **Tools:**
 - Git • GitHub • VS Code • Visual Studio • Android Studio • Postman
 

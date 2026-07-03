@@ -52,11 +52,37 @@ I love learning new technologies, improving my coding skills, and building proje
 
 ## 📌 Current Projects
 
-- 🛒 POS System
-- 📱 Mobile Applications
-- 🌐 Web Applications
-- 🎨 UI/UX Design
-- ⚡ API Development
+- 🛒 POS System (Point of Sales application)
+- 📱 Mobile Applications (React Native + Expo)
+- 🌐 Web Applications (Blazor + ASP.NET Core)
+- ⚡ API Development (RESTful services)
+
+---
+
+## 🎨 Designs
+
+I create intuitive, accessible, and visually appealing interfaces that enhance user experience. My design process focuses on user research, wireframing, prototyping, and iterative testing.
+
+### 📱 Mobile App Designs
+- Clean, modern interfaces for iOS and Android
+- Consistent design systems using React Native and Tailwind
+- Accessibility-first approach (WCAG 2.1 compliant)
+
+### 💻 Web Application Designs
+- Responsive layouts for all device sizes
+- Component-based design systems in React and Blazor
+- Dark/light theme support with smooth transitions
+
+### 🎯 UI/UX Principles I Follow
+- **User-Centered**: Design based on real user needs and feedback
+- **Consistent**: Maintain visual and interaction consistency
+- **Feedback-Oriented**: Provide clear feedback for user actions
+- **Efficient**: Minimize cognitive load and streamline workflows
+
+### 🔗 View My Design Work
+- [Figma Portfolio](https://figma.com/@jemaryorong) - Interactive prototypes
+- [Dribbble Shots](https://dribbble.com/jemaryorong) - UI concepts and explorations
+- [Behance Projects](https://behance.net/jemaryorong) - Full case studies
 
 ---
 
@@ -69,17 +95,6 @@ I love learning new technologies, improving my coding skills, and building proje
 - CI/CD
 - Cloud Deployment
 
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=JEM-YORONG&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEM-YORONG&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JEM-YORONG&theme=tokyonight)
@@ -88,8 +103,8 @@ I love learning new technologies, improving my coding skills, and building proje
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/your-profile](jemaryorong)
-- Portfolio: [https://yourwebsite.com](jemaryorong)
+- LinkedIn: [jemaryorong](https://www.linkedin.com/in/jemaryorong/)
+- Portfolio: [jemaryorong](https://jemaryorong-portfolio.vercel.app/)
 - Email: yorongjemar0@gmail.com
 
 ---

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>I'm a passionate software developer who enjoys creating scalable applications, intuitive user experiences, and clean architectures.<br><br>I love learning new technologies, improving my coding skills, and building projects that make people's work easier.
+I'm a passionate software developer who enjoys creating scalable applications, intuitive user experiences, and clean architectures.<br><br>I love learning new technologies, improving my coding skills, and building projects that make people's work easier.
 
 
 ## 🌐 Socials:
